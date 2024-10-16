@@ -1,0 +1,32 @@
+p{
+    color: black;
+    font-family: Arial;
+    font-weight: 300;
+    text-align: center;
+}
+body{
+    background: rgb(46, 157, 194);
+    font: normal 15pt arial;
+}
+header{
+    color: white;
+    text-align: center;
+}
+h1, h2, h3{
+    background-color: black;
+    color: rgb(198, 189, 137);
+}
+section{
+    background: rgb(130, 153, 159);
+    border-radius: 10pt;
+    padding: 15pt;
+    width: 500;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgb(0,0,0, 0.436);
+    text-align: center;
+}
+footer{
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
